@@ -15,7 +15,7 @@ This project demonstrates data preprocessing, model building, training, and eval
 
 ## 🛠️ Tech Stack
 - Python  
-- TensorFlow / Keras (or PyTorch if implemented)  
+-  Keras
 - NumPy, Pandas  
 - Matplotlib, Seaborn  
 - Scikit-learn  
